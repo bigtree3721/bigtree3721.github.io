@@ -1,0 +1,19 @@
+下面是k8s 1.8.2 Node 节点的images list
+REPOSITORY                                                                   TAG           SIZE
+gcr.io/google_containers/kubernetes-dashboard-amd64                          v1.8.0        119MB
+gcr.io/google_containers/kubernetes-dashboard-init-amd64                     v1.0.1        250MB
+gcr.io/google_containers/kube-apiserver-amd64                                v1.8.2        194MB
+gcr.io/google_containers/kube-controller-manager-amd64                       v1.8.2        129MB
+gcr.io/google_containers/kube-scheduler-amd64                                v1.8.2        54.9MB
+gcr.io/google_containers/kube-proxy-amd64                                    v1.8.2        93.1MB
+gcr.io/google_containers/k8s-dns-sidecar-amd64                               1.14.7        42MB
+gcr.io/google_containers/k8s-dns-kube-dns-amd64                              1.14.7        50.3MB
+gcr.io/google_containers/k8s-dns-dnsmasq-nanny-amd64                         1.14.7        40.9MB
+quay.io/calico/node                                                          v2.6.2        282MB
+quay.io/calico/kube-controllers                                              v1.0.0        51.4MB
+gcr.io/google_containers/heapster-amd64                                      v1.5.0-beta.0 73.8MB
+gcr.io/google_containers/heapster-influxdb-amd64                             v1.3.3        12.5MB
+gcr.io/google_containers/heapster-grafana-amd64                              v4.4.1        151MB
+gcr.io/google-containers/etcd-amd64                                          3.0.17        169MB
+gcr.io/google_containers/addon-resizer                                       1.7           39MB
+gcr.io/google_containers/pause                                               3.0           747kB

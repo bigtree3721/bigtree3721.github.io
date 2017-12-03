@@ -1,0 +1,3 @@
+ https://10.70.27.11:6443/api/v1/proxy/namespaces/kube-system/services/monitoring-grafana
+ 
+ https://10.70.27.11:6443/api/v1/namespaces/kube-system/services/https:kubernetes-dashboard:/proxy/
